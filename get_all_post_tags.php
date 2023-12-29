@@ -1,8 +1,8 @@
 <?php 
 /**
- * Plugin Name: Get Current post tags
+ * Plugin Name: Get all post tags
  * Description: Get all post tags with the shortcode [lc_show_all_post_Tags]
- * Plugin URI:  https://github.com/lucassdantas/wpGetCurrentPostTags.git
+ * Plugin URI:  https://github.com/lucassdantas/wpGetAllPostTags.git
  * Version:     1.0.0
  * Author:      R&D Marketing Digital
  * Author URI:  https://rdmarketing.com.br/
